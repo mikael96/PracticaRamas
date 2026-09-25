@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Hola soy Roberto y esta es mi modificacion
-
-=======
 modificación ruben
 Modificación Fernanda
->>>>>>> c04b17a52544dbb6d25f97940b29c0671d3f13b8
